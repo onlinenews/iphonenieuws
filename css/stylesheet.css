@@ -1,0 +1,336 @@
+/* reset */
+
+body, html, img, div, td, tr, table {
+   margin: 0;
+   padding: 0;
+}
+
+ul {
+   list-style: none;
+   padding: 0;
+   margin: 0;
+}
+
+ul li {
+   display: inline;
+   padding: 0;
+   margin: 0;
+}
+
+img {
+   margin: 0;
+}
+
+::selection {
+   color: #fff;
+   background: #000;
+}
+
+::-moz-selection {
+   color: #fff;
+   background: #000;
+}
+
+a img {
+   border: 0px;
+}
+
+/* general */
+
+body {
+   background-color: #fff;
+   font-family: 'Sorts Mill Goudy', serif;
+   color: #000;
+   font-size: 13px;
+   line-height: 25px;
+}
+
+.clear {
+   clear: both;
+}
+
+/* layout */
+
+#topbar {
+   width: 100%;
+}
+
+#nav {
+   width: 961px;
+   margin: 0 auto;
+}
+
+#topbar, #nav {
+   font-size: 12px;
+   height: 25px;
+   padding-top: 5px;
+   color: #666;
+   border-bottom: 1px solid #ccc;
+}
+
+#topbar ul, #nav ul {
+   display: block;
+   margin: 0 auto;
+   width: 960px;
+}
+
+#topbar li, #nav li {
+   display: block;
+   float: left;
+   margin-right: 20px;
+   height: 26px;
+}
+
+#topbar .active, #nav .active {
+   color: #bbb;
+   background-image: url('../images/pointer.jpg');
+   background-repeat: no-repeat;
+   background-position: center bottom;
+}
+
+#topbar .right, #nav .right {
+   float: right;
+   margin: 0;
+}
+
+.coming_soon {
+   text-decoration: none;
+   color: #666;
+}
+
+.tooltip {
+   position: absolute;
+   background-color: #fff;
+   border: 1px solid #eee;
+   color: #555;
+   z-index: 5;
+   border-radius: 5px;
+   font-size: 13px;
+   line-height: 13px;
+   width: 80px;
+   text-align: center;
+   padding: 5px 10px;
+   top: 0;
+   left: 0;
+}
+
+.tooltip img {
+   position: absolute;
+   top: -7px;
+   left: 45px;
+}
+
+#pagetitle {
+   display: block;
+   margin: 40px auto 30px auto;
+   width: 960px;
+}
+
+#pagetitle img {
+   display: block;
+   margin: 0 auto;
+}
+
+#leaderboard {
+   margin: 5px auto 25px auto;
+   width: 728px;
+   height: 90px;
+}
+
+#leaderboard img {
+   display: block;
+}
+
+#slider, .slide {
+   width: 959px;
+   height: 300px;
+   position: relative;
+}
+
+#slider {
+   margin: 0 auto;
+   overflow: hidden;
+   border: 1px solid #ccc;
+   border-top: 0;
+}
+
+#slides {
+   position: absolute;
+   top: 0;
+   left: 0;
+   height: 320px;
+}
+
+.slide {
+   float: left;
+}
+
+.slide .text {
+   position: absolute;
+   right: 0px;
+   top: 0px;
+   width: 279px;
+   padding: 20px;
+   height: 250px;
+}
+
+.slide img {
+   display: block;
+   position: absolute;
+   top: 10px;
+   left: 10px;
+}
+
+#slider #navigation {
+   position: absolute;
+   bottom: 20px;
+   right: 25px;
+   font-size: 30px;
+   font-weight: bold;
+   font-family: sans-serif;
+}
+
+#slider #navigation a {
+   text-decoration: none;
+   color: #000;
+}
+
+#slider #navigation a:hover {
+   color: #555;
+}
+
+#container {
+   width: 961px;
+   margin: 0 auto;
+   padding-left: 1px;
+}
+
+.articlebox {
+   float: left;
+   width: 279px;
+   margin: -1px 0 0 -1px;
+   padding: 20px;
+   border: 1px solid #ccc;
+}
+
+.articlebox h2, .slide .text h2 {
+   font-family: 'Magra', sans-serif;
+   font-weight: normal;
+   font-size: 23px;
+   margin: 10px 0px;
+}
+
+#article .date, .articlebox .date, #slider .date {
+   font-style: italic;
+   color: #888;
+}
+
+.articlebox .thumb {
+   display: block;
+   margin: 20px auto;
+}
+
+.halfpage .advertisement {
+   display: block;
+   width: 300px;
+   text-align: center;
+   margin: -5px 0 25px -15px;
+   text-transform: uppercase;
+   font-size: 10px;
+   line-height: 10px;
+   color: #bbb;
+   font-family: sans-serif;
+}
+
+.halfpage img {
+   display: block;
+   margin: -10px;
+}
+
+#article {
+   float: left;
+   width: 599px;
+   margin: -1px 0 0 -1px;
+   padding: 20px;
+   border: 1px solid #ccc;
+}
+
+#article h1 {
+   font-family: 'Magra', sans-serif;
+   font-weight: normal;
+   font-size: 33px;
+   margin: 10px 0px;
+   line-height: 40px;
+}
+
+#article h2 {
+   margin-top: 35px;
+}
+
+#article img {
+   max-width: 350px;
+   height: auto;
+   display: block;
+   margin: 30px auto;
+   padding: 10px;
+   border: 10px solid #efefef;
+}
+
+#article p {
+   font-size: 15px;
+   line-height: 28px;
+}
+
+#article a {
+   font-weight: bold;
+   color: #e26;
+}
+
+#article a:hover {
+   color: #333;
+}
+
+.shift div {
+   border-top: 0 !important;
+}
+
+.articlebox li {
+   display: block;
+   line-height: 20px;
+   padding: 15px 0 15px 60px;
+   margin-top: 5px;
+   border-bottom: 1px solid #ccc;
+   min-height: 40px;
+   position: relative;
+}
+
+.sidebar img {
+   display: block;
+   position: absolute;
+   left: 0;
+   top: 15px;
+}
+
+.articlebox li:last-child {
+   border-bottom: none;
+}
+
+.articlebox .halfpage img {
+   margin: 0px 0px 0px -10px;
+}
+
+.articlebox a, #slider a {
+   text-decoration: none;
+   color: #000;
+}
+
+.articlebox li a:hover {
+   text-decoration: underline;
+   color: #666;
+   border-bottom: 0;
+}
+
+.articlebox a:hover, #slider a:hover {
+   text-decoration: none;
+   color: #666;
+}
