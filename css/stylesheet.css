@@ -93,6 +93,15 @@ body {
    margin: 0;
 }
 
+#topbar a, #nav a {
+   color: inherit;
+   text-decoration: none;
+}
+
+#topbar a:hover, #nav a:hover {
+   color: #bbb;
+}
+
 .coming_soon {
    text-decoration: none;
    color: #666;
