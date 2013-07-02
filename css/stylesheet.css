@@ -138,6 +138,8 @@ body {
 #pagetitle img {
    display: block;
    margin: 0 auto;
+   width: 348px;
+   height: 62px;
 }
 
 #leaderboard {
