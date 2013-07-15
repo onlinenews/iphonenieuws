@@ -20,6 +20,9 @@ function mason(div,selector,columns,width) {
    }
 }
 
+function callMason() {
+   mason('#container','.articlebox',3,320);
+}
 function slider(slidewidth) {
    var count = $("#slides .slide").length;
    $("#slides").css({"width":(count*slidewidth)+"px"});
@@ -80,7 +83,20 @@ $(document).ready(function() {
       return false;
    })
    $(".coming_soon").hover(function(e) { $("body").prepend('<div class="tooltip"><img src="images/pointer.jpg" />coming soon</div>'); $(".tooltip").css({"top": $(this).offset().top+25+"px", "left": e.pageX-45+"px"}); }, function() { $(".tooltip").remove(); });
-   mason('#container','.articlebox',3,320);
+   callMason();
+   $("#more").click(function() {
+      $.ajax({
+         url: "more.html",
+         cache: false
+      }).done(function( html ) {
+         $("#container").append(html);
+         callMason();
+         setTimeout(function(){
+            callMason();
+         }, 1000);
+      });
+      return false;
+   });
 });
 
 $(window).load(function () {
@@ -89,8 +105,8 @@ $(window).load(function () {
          $(this).remove();
       }
    });
-   mason('#container','.articlebox',3,320);
+   callMason();
    setTimeout(function(){
-      mason('#container','.articlebox',3,320);
+      callMason();
    }, 1000);
 });
