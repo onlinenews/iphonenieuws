@@ -89,6 +89,7 @@ $(document).ready(function() {
          url: "more.html",
          cache: false
       }).done(function( html ) {
+         $(this).remove();
          $("#container").append(html);
          callMason();
          setTimeout(function(){
