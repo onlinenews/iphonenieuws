@@ -15,7 +15,7 @@ function mason(div,selector,columns,width) {
       $(this).css({"position":"absolute","top":lowest+"px","left":lowest_id*width+"px"});
       columnscore[lowest_id] = columnscore[lowest_id] + $(this).outerHeight() - 1;
    });
-   $(div).css({"height":Math.max.apply(Math, array)+"px"});
+   $(div).css({"height":Math.max.apply(Math, columnscore)+"px"});
 }
 
 function slider(slidewidth) {
