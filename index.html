@@ -10,10 +10,10 @@
             WebFontConfig = {
                google: { families: [ 'Magra:400' ] },
                   active: function() {
-                     mason();
+                     mason('#container','.articlebox',3,320);
                   },
                   inactive: function() {
-                     mason();
+                     mason('#container','.articlebox',3,320);
                   }};
             (function() {
                var wf = document.createElement('script');
