@@ -1,4 +1,5 @@
 function mason() {
+   $('#container').masonry('destroy');
    $('#container').masonry({
       itemSelector : '.articlebox',
       columnWidth : 320
