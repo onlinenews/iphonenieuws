@@ -78,6 +78,7 @@ $(document).ready(function() {
       return false;
    })
    $(".coming_soon").hover(function(e) { $("body").prepend('<div class="tooltip"><img src="images/pointer.jpg" />coming soon</div>'); $(".tooltip").css({"top": $(this).offset().top+25+"px", "left": e.pageX-45+"px"}); }, function() { $(".tooltip").remove(); });
+   mason('#container','.articlebox',3,320);
 });
 
 $(window).load(function () {
@@ -86,4 +87,8 @@ $(window).load(function () {
          $(this).remove();
       }
    });
+   mason('#container','.articlebox',3,320);
+   setTimeout(function(){
+      mason('#container','.articlebox',3,320);
+   }, 1000);
 });
