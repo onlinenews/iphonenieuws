@@ -146,10 +146,14 @@ body {
    margin: 5px auto 25px auto;
    width: 728px;
    height: 90px;
+   overflow: hidden;
 }
 
-#leaderboard img {
-   display: block;
+#rectangle {
+   width: 300px;
+   height: 250px;
+   overflow: hidden;
+   margin: -10px -10px 0 0;
 }
 
 #slider, .slide {
