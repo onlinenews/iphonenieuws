@@ -84,20 +84,20 @@ $(document).ready(function() {
    })
    $(".coming_soon").hover(function(e) { $("body").prepend('<div class="tooltip"><img src="images/pointer.jpg" />coming soon</div>'); $(".tooltip").css({"top": $(this).offset().top+25+"px", "left": e.pageX-45+"px"}); }, function() { $(".tooltip").remove(); });
    callMason();
-   $("#more").click(function() {
-      $(this).remove();
-      $.ajax({
-         url: "more.html",
-         cache: false
-      }).done(function( html ) {
-         $("#container").append(html);
-         callMason();
-         setTimeout(function(){
-            callMason();
-         }, 1000);
-      });
-      return false;
-   });
+   //$("#more").click(function() {
+   //   $(this).remove();
+   //   $.ajax({
+   //      url: "more.html",
+   //      cache: false
+   //   }).done(function( html ) {
+   //      $("#container").append(html);
+   //      callMason();
+   //      setTimeout(function(){
+   //         callMason();
+   //      }, 1000);
+   //   });
+   //   return false;
+   //});
 });
 
 $(window).load(function () {
