@@ -290,6 +290,12 @@ body {
    border: 10px solid #efefef;
 }
 
+#article .noborder {
+   max-width: none;
+   padding: 0;
+   border: 0;
+}
+
 #article p {
    font-size: 16px;
    line-height: 30px;
