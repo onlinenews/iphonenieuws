@@ -301,6 +301,15 @@ body {
    margin: 20px 20px 20px 0;
 }
 
+#article .float_right {
+   float: left;
+   margin: 20px 0 20px 20px;
+}
+
+#article .float_first {
+   margin-top: 0px;
+}
+
 #article p {
    font-size: 16px;
    line-height: 30px;
