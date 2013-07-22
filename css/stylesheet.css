@@ -296,6 +296,11 @@ body {
    border: 0;
 }
 
+#article .float_left {
+   float: left;
+   margin: 20px 20px 20px 0;
+}
+
 #article p {
    font-size: 16px;
    line-height: 30px;
