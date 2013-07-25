@@ -3,9 +3,107 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
    <url>
       <loc>http://www.iphonenieuws.com/</loc>
-      <lastmod>2013-07-24</lastmod>
+      <lastmod>2013-07-25</lastmod>
       <changefreq>hourly</changefreq>
       <priority>1</priority>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/nederlandse-iphone-app-voorkomt-waterfraude.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Nederlandse iPhone-app voorkomt waterfraude</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/treintickets-voortaan-te-koop-via-belgische-nmbs-treinapp.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Treintickets voortaan te koop via Belgische NMBS-treinapp</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/sneak-peek-goedkope-iphone.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Sneak peek goedkope iPhone</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/de-telegraaf-voor-iphone-nu-toegankelijk-voor-blinden-en-slechtzienden.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>De Telegraaf voor iPhone nu toegankelijk voor blinden en slechtzienden</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/opwaarderen-app-voor-ios-voegt-meer-telecombundels-toe.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Opwaarderen-app voor iOS voegt meer telecombundels toe</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/video-toont-nieuwe-achterkant-iphone.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Video toont nieuwe achterkant iPhone</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/strides-werk-aan-allerlei-soorten-doelstellingen-met-iphone-app.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Strides: werk aan allerlei soorten doelstellingen met iPhone-app</news:title>
+      </news:news>
    </url>
    <url>
       <loc>http://www.iphonenieuws.com/groeikalender-voor-iphone-en-ipad-geeft-advies-en-tips-over-babys.html</loc>
