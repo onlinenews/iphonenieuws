@@ -8,6 +8,20 @@
       <priority>1</priority>
    </url>
    <url>
+      <loc>http://www.iphonenieuws.com/iculture-vandaag-dit-was-woensdag-24-juli-2013.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>iCulture Vandaag: dit was woensdag 24 juli 2013</news:title>
+      </news:news>
+   </url>
+   <url>
       <loc>http://www.iphonenieuws.com/nederlandse-iphone-app-voorkomt-waterfraude.html</loc>
       <lastmod>2013-07-24</lastmod>
       <changefreq>weekly</changefreq>
@@ -47,20 +61,6 @@
          <news:genres>PressRelease, Blog</news:genres>
          <news:publication_date>2013-07-24</news:publication_date>
          <news:title>Sneak peek goedkope iPhone</news:title>
-      </news:news>
-   </url>
-   <url>
-      <loc>http://www.iphonenieuws.com/de-telegraaf-voor-iphone-nu-toegankelijk-voor-blinden-en-slechtzienden.html</loc>
-      <lastmod>2013-07-24</lastmod>
-      <changefreq>weekly</changefreq>
-      <news:news>
-         <news:publication>
-            <news:name>iPhone Nieuws</news:name>
-            <news:language>nl</news:language>
-         </news:publication>
-         <news:genres>PressRelease, Blog</news:genres>
-         <news:publication_date>2013-07-24</news:publication_date>
-         <news:title>De Telegraaf voor iPhone nu toegankelijk voor blinden en slechtzienden</news:title>
       </news:news>
    </url>
    <url>
@@ -106,6 +106,20 @@
       </news:news>
    </url>
    <url>
+      <loc>http://www.iphonenieuws.com/iculture-deals-aanbiedingen-woensdag-24-juli-2013.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>iCulture Deals: aanbiedingen woensdag 24 juli 2013</news:title>
+      </news:news>
+   </url>
+   <url>
       <loc>http://www.iphonenieuws.com/groeikalender-voor-iphone-en-ipad-geeft-advies-en-tips-over-babys.html</loc>
       <lastmod>2013-07-24</lastmod>
       <changefreq>weekly</changefreq>
@@ -131,6 +145,594 @@
          <news:genres>PressRelease, Blog</news:genres>
          <news:publication_date>2013-07-24</news:publication_date>
          <news:title>Veel vraag naar oudere iPhone modellen</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/vijf-fastfood-apps-voor-een-snelle-hap-waar-je-ook-bent.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Vijf fastfood-apps voor een snelle hap, waar je ook bent</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/apple-iphone-verkoopt-meer-ipad-minder.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Apple: iPhone verkoopt meer, iPad minder</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/nieuwe-video-toont-unibody-iphone-lite.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Nieuwe video toont unibody ‘iPhone Lite’</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/plastic-iphone-lite-vergeleken-met-eerdere-iphones-video.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Plastic iPhone Lite vergeleken met eerdere iPhones (video)</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/smartphone-wat-te-doen-bij-waterschade.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Smartphone: Wat te doen bij waterschade</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/takenapp-todoist-nu-ook-op-ipad.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Takenapp Todoist nu ook op iPad</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/uitzending-gemist-voor-ios-nieuw-icoon-en-30-dagen-terugkijken-in-vernieuwd.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Uitzending Gemist voor iOS: nieuw icoon en 30 dagen terugkijken in vernieuwde app</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/muziekapp-splyce-zorgt-voor-een-feestje-met-philips-hue.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Muziekapp Splyce zorgt voor een feestje met Philips Hue</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/nike-running-introduceert-uitdagingen-in-iphone-app.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Nike+ Running introduceert uitdagingen in iPhone-app</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/kraggenburg---netl-blijft-dicht-gestolen-iphone-niet-terug.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Kraggenburg - Netl blijft dicht, gestolen iPhone niet terug</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/wallpapr-gratis-stijlvolle-iphone-wallpapers.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Wallpapr: gratis stijlvolle iPhone wallpapers</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/sterke-iphone-verkoop-verbloemt-winstdaling-apple.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Sterke iPhone-verkoop verbloemt winstdaling Apple</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/twitterrific-gaat-twitter-achterna-met-recente-activiteit.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Twitterrific gaat Twitter achterna met recente activiteit</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/iphone-helpt-apple-aan-positieve-kwartaalcijfersaaa.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>iPhone helpt Apple aan positieve kwartaalcijfersaaa</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/treinreizigers-kunnen-voortaan-biljet-kopen-via-iphone-app-nmbs.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Treinreizigers kunnen voortaan biljet kopen via iPhone-app NMBS</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/wallpapr-iphone-app-met-stijlvolle-achtergronden-past-goed-bij-ios-7.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Wallpapr: iPhone-app met stijlvolle achtergronden past goed bij iOS 7</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/verkoop-apples-iphone-verrast.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Verkoop Apple’s iPhone verrast</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/onverwachte-daling-in-verkoop-ipads.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Onverwachte daling in verkoop iPads</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/delen-via-iphone-het-populairst.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Delen via iPhone het populairst</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/apple-weet-omzet-nauwelijks-te-verhogen.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Apple weet omzet nauwelijks te verhogen</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/apple-verkoopt-meer-iphones-maar-minder-ipads.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Apple verkoopt meer iPhones maar minder  iPads</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/cijfers-3e-kwartaal-iphone-is-ipod-in-units-voorbij.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Cijfers 3e kwartaal: iPhone is iPod in units voorbij</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/iculture-vandaag-dit-was-dinsdag-23-juli-2013.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>iCulture Vandaag: dit was dinsdag 23 juli 2013</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/dichtbij-mobile-nieuwe-iphone-app-voor-lokale-nieuwssite-dichtbij.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Dichtbij Mobile: nieuwe iPhone-app voor lokale nieuwssite Dichtbij</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/ios-game-update-pocket-trains-van-nimblebit-thor-van-gameloft-en-a-ride-int.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>iOS game-update: Pocket Trains van NimbleBit, Thor van Gameloft en A Ride Into the Mountains</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/treinbiljet-aankopen-kan-nu-ook-via-iphone-app.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Treinbiljet aankopen kan nu ook via iPhone-app</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/apple-vindt-interactief-wachtsysteem-voor-telefoongesprekken-uit.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Apple vindt interactief wachtsysteem voor telefoongesprekken uit</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/bedenkers-hemlis-app-halen-150000-dollar-op-en-gaan-team-samenstellen.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Bedenkers Hemlis-app halen 150.000 dollar op en gaan team samenstellen</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/kraggenburg---netl-park-uit-protest-tegen-vandalisme-dicht.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Kraggenburg - Netl Park uit protest tegen vandalisme dicht</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/kaspersky-browser-filter-tegen-kwaadwillende-sites-op-ios.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Kaspersky Browser: filter tegen kwaadwillende sites op iOS</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/nmbs-plaatst-nieuwe-automaten-en-verkoopt-via-iphone.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>NMBS plaatst nieuwe automaten en verkoopt via iPhone</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/iculture-deals-aanbiedingen-dinsdag-23-juli-2013.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>iCulture Deals: aanbiedingen dinsdag 23 juli 2013</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/nieuwe-iphone-vs-nieuwe-vriendin.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Nieuwe iPhone vs. nieuwe vriendin</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/iphone-5s-vertraagd-haswell-mac-en-nieuwe-ipad-wel-op-tijd.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>‘iPhone 5S vertraagd, Haswell Mac en nieuwe iPad wel op tijd’</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/werkt-nasa-aan-echte-warp-speed.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Werkt NASA aan echte ‘warp speed’?</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/vakantiespecial-10-geweldige-bordspellen-voor-ipad-en-iphone.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Vakantiespecial: 10 geweldige bordspellen voor iPad en iPhone</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/lange-wachtrijen-in-shanghai-voor-reparaties-bij-apple.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Lange wachtrijen in Shanghai voor reparaties bij Apple</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/ortus-arena-bordspel-en-ios-hybride-zoekt-nog-kickstarter-steun.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Ortus Arena: bordspel en iOS hybride zoekt nog Kickstarter-steun</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/reizen-naar-bangkok-en-thailand-wat-moet-je-weten.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Reizen naar Bangkok en Thailand, wat moet je weten?</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/rockpack-voor-iphone-en-ipad-videokanalen-bekijken-en-delen.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Rockpack voor iPhone en iPad: videokanalen bekijken en delen</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/trail-tracker-gps-gebruikt-nu-google-maps-en-kan-beter-delen.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Trail Tracker GPS gebruikt nu Google Maps en kan beter delen</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.iphonenieuws.com/treinbiljet-kopen-kan-voortaan-met-iphone-app.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>iPhone Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Treinbiljet kopen kan voortaan met iPhone-app</news:title>
       </news:news>
    </url>
    <url>
@@ -201,20 +803,6 @@
          <news:genres>PressRelease, Blog</news:genres>
          <news:publication_date>2013-07-22</news:publication_date>
          <news:title>Kamernet brengt officiële iPhone-app uit</news:title>
-      </news:news>
-   </url>
-   <url>
-      <loc>http://www.iphonenieuws.com/apple-test-ipad-en-iphone-met-groter-scherm.html</loc>
-      <lastmod>2013-07-22</lastmod>
-      <changefreq>weekly</changefreq>
-      <news:news>
-         <news:publication>
-            <news:name>iPhone Nieuws</news:name>
-            <news:language>nl</news:language>
-         </news:publication>
-         <news:genres>PressRelease, Blog</news:genres>
-         <news:publication_date>2013-07-22</news:publication_date>
-         <news:title>Apple test iPad en iPhone met groter scherm</news:title>
       </news:news>
    </url>
    <url>
@@ -302,20 +890,6 @@
       </news:news>
    </url>
    <url>
-      <loc>http://www.iphonenieuws.com/ns-reisplanner-xtra-krijgt-meer-stationsinformatie-en-treinroutes.html</loc>
-      <lastmod>2013-07-22</lastmod>
-      <changefreq>weekly</changefreq>
-      <news:news>
-         <news:publication>
-            <news:name>iPhone Nieuws</news:name>
-            <news:language>nl</news:language>
-         </news:publication>
-         <news:genres>PressRelease, Blog</news:genres>
-         <news:publication_date>2013-07-22</news:publication_date>
-         <news:title>NS Reisplanner Xtra krijgt meer stationsinformatie en treinroutes</news:title>
-      </news:news>
-   </url>
-   <url>
       <loc>http://www.iphonenieuws.com/apple-test-groter-scherm-voor-iphone-en-ipad.html</loc>
       <lastmod>2013-07-22</lastmod>
       <changefreq>weekly</changefreq>
@@ -400,20 +974,6 @@
       </news:news>
    </url>
    <url>
-      <loc>http://www.iphonenieuws.com/apple-test-prototypes-5-inch-iphone-en-13-inch-ipad.html</loc>
-      <lastmod>2013-07-22</lastmod>
-      <changefreq>weekly</changefreq>
-      <news:news>
-         <news:publication>
-            <news:name>iPhone Nieuws</news:name>
-            <news:language>nl</news:language>
-         </news:publication>
-         <news:genres>PressRelease, Blog</news:genres>
-         <news:publication_date>2013-07-22</news:publication_date>
-         <news:title>Apple test prototypes 5-inch iPhone en 13-inch iPad</news:title>
-      </news:news>
-   </url>
-   <url>
       <loc>http://www.iphonenieuws.com/apple-test-groter-iphone-scherm.html</loc>
       <lastmod>2013-07-22</lastmod>
       <changefreq>weekly</changefreq>
@@ -484,20 +1044,6 @@
       </news:news>
    </url>
    <url>
-      <loc>http://www.iphonenieuws.com/asterix-megaslap-komt-op-25-juli-naar-iphone-en-ipad.html</loc>
-      <lastmod>2013-07-21</lastmod>
-      <changefreq>weekly</changefreq>
-      <news:news>
-         <news:publication>
-            <news:name>iPhone Nieuws</news:name>
-            <news:language>nl</news:language>
-         </news:publication>
-         <news:genres>PressRelease, Blog</news:genres>
-         <news:publication_date>2013-07-21</news:publication_date>
-         <news:title>Asterix Megaslap komt op 25 juli naar iPhone en iPad</news:title>
-      </news:news>
-   </url>
-   <url>
       <loc>http://www.iphonenieuws.com/tijdelijk-gratis-iphone--en-ios-apps-redline-rush-beatfm-en-meer.html</loc>
       <lastmod>2013-07-21</lastmod>
       <changefreq>weekly</changefreq>
@@ -523,20 +1069,6 @@
          <news:genres>PressRelease, Blog</news:genres>
          <news:publication_date>2013-07-21</news:publication_date>
          <news:title>Vijf apps voor de 7 minuten workout op iPhone en iPad</news:title>
-      </news:news>
-   </url>
-   <url>
-      <loc>http://www.iphonenieuws.com/dieren-kijken-met-nieuwe-ios-apps-ipet-en-peterest.html</loc>
-      <lastmod>2013-07-21</lastmod>
-      <changefreq>weekly</changefreq>
-      <news:news>
-         <news:publication>
-            <news:name>iPhone Nieuws</news:name>
-            <news:language>nl</news:language>
-         </news:publication>
-         <news:genres>PressRelease, Blog</news:genres>
-         <news:publication_date>2013-07-21</news:publication_date>
-         <news:title>Dieren kijken met nieuwe iOS-apps iPet en Peterest</news:title>
       </news:news>
    </url>
    <url>
