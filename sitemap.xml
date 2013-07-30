@@ -3,9 +3,93 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-07-26</lastmod>
+<lastmod>2013-07-30</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/apple-patent-beschrijft-iphone-camera-met-drie-sensoren.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-07-30</news:publication_date>
+   <news:title>Apple-patent beschrijft iPhone-camera met drie sensoren</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/dagboek-app-journalized-synchroniseert-nu-met-evernote.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-07-30</news:publication_date>
+   <news:title>Dagboek-app Journalized synchroniseert nu met Evernote</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/foxconn-huurt-90000-mensen-in-voor-5s.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-07-30</news:publication_date>
+   <news:title>'Foxconn huurt 90.000 mensen in voor 5S'</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/ifttt-krijgt-eerste-update-met-verbeteringen-voor-afbeeldingen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-07-30</news:publication_date>
+   <news:title>IFTTT krijgt eerste update met verbeteringen voor afbeeldingen</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/apple-tv-straks-muziek-kopen-en-snelle-set-up-met-bluetooth-40.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-07-30</news:publication_date>
+   <news:title>Apple TV: straks muziek kopen en snelle set-up met Bluetooth 4.0</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/foxconn-schakelt-90000-mensen-in-voor-productie-iphone-5s.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-07-30</news:publication_date>
+   <news:title>‘Foxconn schakelt 90.000 mensen in voor productie iPhone 5S’</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/iculture-vandaag-dit-was-woensdag-24-juli-2013.html</loc>
