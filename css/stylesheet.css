@@ -33,6 +33,7 @@ body { background-color: #fff; font-family: Georgia, serif; color: #333; font-si
 .androidnieuws #pagetitle img { width: 379px; height: 136px; }
 .blackberrynieuws #pagetitle img { width: 379px; height: 103px; }
 .nokianieuws #pagetitle img { width: 445px; height: 147px; }
+.htcnieuws #pagetitle img { width: 393px; height: 86px; }
 #leaderboard { margin: 25px auto; width: 728px; height: 90px; overflow: hidden; }
 .rectangle { width: 300px; height: 250px; overflow: hidden; margin: -10px; }
 #slider, .slide { width: 959px; height: 300px; position: relative; }
@@ -70,6 +71,7 @@ body { background-color: #fff; font-family: Georgia, serif; color: #333; font-si
 .articlebox li { display: block; line-height: 20px; padding: 15px 0 15px 60px; margin-top: 5px; border-bottom: 1px solid #ccc; min-height: 40px; position: relative; }
 .articlebox .nopadding { min-height: 0; padding: 15px 0 15px 0px; }
 .sidebar img { display: block; position: absolute; left: 0; top: 15px; }
+.sidebar .rectangle { margin-top: 50px; }
 .articlebox li:last-child { border-bottom: none; }
 .articlebox .halfpage img { margin: 0px 0px 0px -10px; }
 .articlebox a, #slider a { text-decoration: none; color: #000; }
