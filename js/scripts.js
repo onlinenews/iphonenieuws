@@ -82,7 +82,7 @@ $(document).ready(function() {
    $(".coming_soon").click(function() {
       return false;
    })
-   $(".coming_soon").hover(function(e) { $("body").prepend('<div class="tooltip"><img src="images/pointer.jpg" />coming soon</div>'); $(".tooltip").css({"top": $(this).offset().top+25+"px", "left": e.pageX-45+"px"}); }, function() { $(".tooltip").remove(); });
+   $(".coming_soon").hover(function(e) { $("body").prepend('<div class="tooltip"><img src="http://www.iphonenieuws.com/images/pointer.jpg" />coming soon</div>'); $(".tooltip").css({"top": $(this).offset().top+25+"px", "left": e.pageX-45+"px"}); }, function() { $(".tooltip").remove(); });
    callMason();
    //$("#more").click(function() {
    //   $(this).remove();
