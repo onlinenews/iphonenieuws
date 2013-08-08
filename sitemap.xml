@@ -3,9 +3,79 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-08-07</lastmod>
+<lastmod>2013-08-08</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/vingerafdruk-van-vlek-op-je-scherm-naar-beveiliger-van-je-iphone.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>Vingerafdruk: van vlek op je scherm naar beveiliger van je iPhone</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/waarde-tweedehands-iphone-4-stijgt-10-galaxy-s-iii-daalt-30.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>Waarde tweedehands iPhone 4 stijgt 10%, Galaxy S III daalt 30%</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/instagram-update-bewerk-je-oude-videos.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>Instagram update: bewerk je oude video’s</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/goedkope-iphone-prijs-gelijk-aan-iphone-4.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>‘Goedkope iPhone prijs gelijk aan iPhone 4′</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/whatsapp-voegt-push-to-talk-berichten-toe.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>WhatsApp voegt push-to-talk berichten toe</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/apple-gaat-misfit-shine-activiteitentracker-verkopen-in-apple-store.html</loc>
@@ -19,6 +89,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-08-07</news:publication_date>
    <news:title>Apple gaat Misfit Shine activiteitentracker verkopen in Apple Store</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/plants-vs-zombies-2-downloaden.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>Plants vs Zombies 2 downloaden?</news:title>
 </news:news>
 </url>
 <url>
@@ -50,6 +134,34 @@
 </news:news>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/vijfde-bta-ios-7-beschikbaar.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-06</news:publication_date>
+   <news:title>Vijfde bèta iOS 7 beschikbaar</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/goedkope-iphone-verkoop-overtreft-5s-in-2014.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-06</news:publication_date>
+   <news:title>‘Goedkope iPhone verkoop overtreft 5S in 2014′</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/apple-ruilt-nagemaakte-usb-opladers-om-na-fatale-elektrocutie.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -61,6 +173,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-08-06</news:publication_date>
    <news:title>Apple ruilt "nagemaakte" USB-opladers om na fatale elektrocutie</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/facetime-staat-centraal-in-nieuwe-iphone-commercial.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-06</news:publication_date>
+   <news:title>FaceTime staat centraal in nieuwe iPhone-commercial</news:title>
 </news:news>
 </url>
 <url>
@@ -78,6 +204,34 @@
 </news:news>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/apple-start-inruilactie-namaak-opladers.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-06</news:publication_date>
+   <news:title>Apple start inruilactie namaak-opladers</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/apple-geeft-korting-op-een-iphone-oplader-na-elektrocuties.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-06</news:publication_date>
+   <news:title>Apple geeft korting op een iPhone-oplader na elektrocuties</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/apple-geeft-korting-op-officile-iphone-laders-na-klachten-over-nepladers.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -89,6 +243,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-08-06</news:publication_date>
    <news:title>Apple geeft korting op officiële iPhone-laders na klachten over nepladers</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/elektrocutiegevaar-door-valse-iphone-laders.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-06</news:publication_date>
+   <news:title>‘Elektrocutiegevaar door valse iPhone-laders’</news:title>
 </news:news>
 </url>
 <url>
