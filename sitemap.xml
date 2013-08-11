@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/apple-showt-op-10-september-nieuwe-iphones.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-11</news:publication_date>
+   <news:title>'Apple showt op 10 september nieuwe iPhones'</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/iphone-5s-homeknop-krijgt-andere-vorm.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-11</news:publication_date>
+   <news:title>‘iPhone 5S homeknop krijgt andere vorm’</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/nieuwe-iphone-op-10-september.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -33,6 +61,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-08-11</news:publication_date>
    <news:title>‘Apple onthult nieuwe iPhones op dinsdag 10 september 2013′</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/test-je-reactievermogen-met-pivvot.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-10</news:publication_date>
+   <news:title>Test je reactievermogen met Pivvot</news:title>
 </news:news>
 </url>
 <url>
