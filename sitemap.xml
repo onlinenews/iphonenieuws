@@ -3,9 +3,51 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-08-13</lastmod>
+<lastmod>2013-08-14</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/yelp-laat-gebruikers-nu-restaurantrecensies-schrijven-in-iphone-app.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-13</news:publication_date>
+   <news:title>Yelp laat gebruikers nu restaurantrecensies schrijven in iPhone-app</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/facebook-werkt-aan-mobiele-vip-app-voor-bekende-artiesten.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-13</news:publication_date>
+   <news:title>Facebook werkt aan mobiele VIP-app voor bekende artiesten</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/idoorcam-slimme-deurbel-met-webcam-en-spraakfunctie.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-13</news:publication_date>
+   <news:title>iDoorcam: slimme deurbel met webcam en spraakfunctie</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/vrouw-gewond-door-ontplofte-iphone.html</loc>
