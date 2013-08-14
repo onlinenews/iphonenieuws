@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/ipad-5-en-ipad-mini-2-worden-waarschijnlijk-in-oktober-aangekondigd.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-14</news:publication_date>
+   <news:title>iPad 5 en iPad Mini 2 worden waarschijnlijk in oktober aangekondigd</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/nieuwe-video-toont-gele-iphone-5c-behuizing.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-14</news:publication_date>
+   <news:title>Nieuwe video toont gele iPhone 5C-behuizing</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/apple-is-in-gevaar.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
