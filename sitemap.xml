@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/plants-vs-zombies-2-its-about-time.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-15</news:publication_date>
+   <news:title>Plants vs. Zombies 2: It's About Time</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/slack-zakelijk-sociaal-netwerk-van-flickr-medeoprichter.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
