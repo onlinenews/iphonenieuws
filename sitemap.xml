@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-08-19</lastmod>
+<lastmod>2013-08-20</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/aap-in-apenheul-aan-de-haal-met-iphone.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-20</news:publication_date>
+   <news:title>Aap in Apenheul aan de haal met iPhone</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/apple-heeft-levering-iphone-5s-en-5c-begin-september-gepland-zegt-wsj.html</loc>
