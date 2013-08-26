@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/siri-neemt-google-glass-op-de-hak.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-26</news:publication_date>
+   <news:title>Siri neemt Google Glass op de hak</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/chip-van-nieuwe-iphone-is-31-procent-sneller.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
