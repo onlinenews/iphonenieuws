@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/iculture-vandaag-dit-was-maandag-2-september-2013.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-02</news:publication_date>
+   <news:title>iCulture Vandaag: dit was maandag 2 september 2013</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/slipklip-clip-onderop-je-iphone-schroeven.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-02</news:publication_date>
+   <news:title>SlipKlip: clip onderop je iPhone schroeven</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/mijn-cijfers-vernieuwd-en-tijdelijk-gratis-voor-begin-schooljaar.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
