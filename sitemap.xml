@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/ok-glass-ehh-sorry-siri.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-03</news:publication_date>
+   <news:title>OK Glass.. ehh.. sorry, Siri</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/quick-start-guides-duiden-op-nederlandse-release-plastic-iphone-5c.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-03</news:publication_date>
+   <news:title>Quick start guides duiden op Nederlandse release plastic iPhone 5C</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/viewranger-gps-amp-kaarten-vernieuwd-op-ipad-en-iphone.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
