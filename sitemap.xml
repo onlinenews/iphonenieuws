@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-09-05</lastmod>
+<lastmod>2013-09-06</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/apple-test-iphone-prototypes-met-6-inch-scherm.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-05</news:publication_date>
+   <news:title>Apple test iPhone-prototypes met 6-inch scherm</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/nederlandse-instructiekaart-voor-apple-iphone-5c-uitgelekt.html</loc>
