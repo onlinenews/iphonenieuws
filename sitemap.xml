@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-09-09</lastmod>
+<lastmod>2013-09-10</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/commentaires-sur-jailbreak-ios-614-sur-iphone-5--cest-fait--par-morph.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-10</news:publication_date>
+   <news:title>Commentaires sur Jailbreak iOS 6.1.4 sur iPhone 5 : c’est fait ! par Morph</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/video-steve-jobss-breakout-in-hilversum.html</loc>
