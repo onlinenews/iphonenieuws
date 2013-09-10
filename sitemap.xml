@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/alle-apple-geruchten-op-een-rijtje.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-10</news:publication_date>
+   <news:title>Alle Apple geruchten op een rijtje</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/futures-wijzen-op-hogere-opening-wall-street.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-10</news:publication_date>
+   <news:title>Futures wijzen op hogere opening Wall Street</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/mobiel-bankieren-iphone-app-van-abn-amro-laat-je-rekeningen-snel-delen.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
