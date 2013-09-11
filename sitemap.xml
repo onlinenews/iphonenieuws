@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-09-10</lastmod>
+<lastmod>2013-09-11</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/nieuwe-iphone-voor-een-prikkie.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-11</news:publication_date>
+   <news:title>Nieuwe iPhone voor een 'prikkie'</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/apple-lanceert-iphone-5s-met-touch-id.html</loc>
