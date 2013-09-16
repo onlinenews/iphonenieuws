@@ -3,9 +3,65 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-09-15</lastmod>
+<lastmod>2013-09-16</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/zorgen-over-vingerafdruk-iphone5-3.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-16</news:publication_date>
+   <news:title>Zorgen over ‘vingerafdruk’ iPhone5</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/met-een-iphone-trek-je-niet-ten-oorlog-of-hoe-nokia-de-boot-miste.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-16</news:publication_date>
+   <news:title>Met een iPhone trek je niet ten oorlog of hoe Nokia de boot miste</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/telewiki-apples-special-event.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-15</news:publication_date>
+   <news:title>Telewiki: Apple's 'Special Event'</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/8103-microsoft-haalt-iphone-parodie-offline-want-die-schoot-haar-doel-voorb.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-15</news:publication_date>
+   <news:title>#8103: Microsoft haalt iPhone-parodie offline, 'want die schoot haar doel voorbij'</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/zorgen-om-vingerafdruk-iphone.html</loc>
