@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-09-17</lastmod>
+<lastmod>2013-09-18</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/weinig-voorraad-iphone-5s-verwacht-iphone-5c-in-overvloed.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-17</news:publication_date>
+   <news:title>‘Weinig voorraad iPhone 5s verwacht, iPhone 5c in overvloed’</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/de-kwaliteit-van-de-120-fps-van-de-iphone-5s.html</loc>
