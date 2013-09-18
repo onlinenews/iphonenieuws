@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/ios-7-functioneel-maar-een-beetje-saai.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-18</news:publication_date>
+   <news:title>iOS 7: 'functioneel maar een beetje saai'</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/weinig-voorraad-iphone-5s-verwacht-iphone-5c-in-overvloed.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
