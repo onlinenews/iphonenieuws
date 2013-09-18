@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/downloaden-ios-7-leidt-tot-veel-frustratie.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-18</news:publication_date>
+   <news:title>Downloaden iOS 7 leidt tot veel frustratie</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/apple-geeft-ios7-vrij-als-draadloze-update.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -33,6 +47,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-09-18</news:publication_date>
    <news:title>iOS 7 is vanaf nu beschikbaar</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/ios-7-nu-beschikbaar-voor-iphone-ipad-en-ipod-touch.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-18</news:publication_date>
+   <news:title>iOS 7 nu beschikbaar voor iPhone, iPad en iPod touch</news:title>
 </news:news>
 </url>
 <url>
