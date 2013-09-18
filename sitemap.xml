@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/bekijk-het-nieuwe-ios-7-van-apple.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-18</news:publication_date>
+   <news:title>Bekijk het nieuwe iOS 7 van Apple</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/clmn--steve-almighty.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
