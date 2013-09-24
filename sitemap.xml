@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-09-23</lastmod>
+<lastmod>2013-09-24</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/expert-pink-is-veiligste-vinger-voor-iphone-touch-id.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-24</news:publication_date>
+   <news:title>Expert: pink is veiligste vinger voor iPhone Touch ID</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/djay-2-for-iphone-aangepast-voor-64-bits-processor-in-iphone-5s.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-24</news:publication_date>
+   <news:title>djay 2 for iPhone aangepast voor 64-bits processor in iPhone 5s</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/apple-verkoopt-negen-miljoen-iphones-in-drie-dagen-1.html</loc>
