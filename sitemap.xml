@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/apple-tv-instellen-met-ios7.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-26</news:publication_date>
+   <news:title>Apple TV instellen met iOS7</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/iphone-stuurt-automobilisten-dwars-over-landingsbaan.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-26</news:publication_date>
+   <news:title>iPhone stuurt automobilisten dwars over landingsbaan</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/rabo-bankieren-op-iphone-en-ipad-kan-nu-betalen-via-ideal.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
