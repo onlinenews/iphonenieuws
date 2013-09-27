@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/we-love-phonegeek-telefoonhoesjes.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-27</news:publication_date>
+   <news:title>We Love: Phonegeek telefoonhoesjes</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/ios-device-activation-nu-op-apples-status-pagina.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
