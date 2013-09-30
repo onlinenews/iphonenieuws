@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/tip-maak-ios-7-echt-helemaal-stil.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-30</news:publication_date>
+   <news:title>Tip: maak iOS 7 echt helemaal stil</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/meer-over-64-bits-en-de-a7-processor.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-30</news:publication_date>
+   <news:title>Meer over 64 bits en de A7 processor</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/coca-cola-niet-langer-meest-waardevolle-merk.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
