@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/dit-is-de-vrouw-achter-de-stem-van-siri.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-04</news:publication_date>
+   <news:title>Dit is de vrouw achter de stem van SIRI</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/zepp-labs-gaat-trackers-voor-golf-honkbal-en-tennis-aanbieden.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-04</news:publication_date>
+   <news:title>Zepp Labs gaat trackers voor golf, honkbal en tennis aanbieden</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/tunemob-maak-een-grote-speaker-van-meerdere-iphones.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
