@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-10-03</lastmod>
+<lastmod>2013-10-04</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/samenvatting-d3publisher-en-marvel-entertainment-bundelen-hun-krachten-in-m.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-04</news:publication_date>
+   <news:title>Samenvatting: D3Publisher en Marvel Entertainment bundelen hun krachten in Marvel Puzzle Quest: Dark Reign, vanaf vandaag verkrijgbaar in de App Store en Google Play</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/apple-koopt-cue-app-persoonlijke-assistent-is-mogelijke-aanvulling-voor-sir.html</loc>
