@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/probleem-met-sensoren-iphone-5s.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-04</news:publication_date>
+   <news:title>''Probleem met sensoren iPhone 5S''</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/earbits-voor-iphone-muziek-van-onafhankelijke-artiesten-ontdekken.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-04</news:publication_date>
+   <news:title>Earbits voor iPhone: muziek van onafhankelijke artiesten ontdekken</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/touch-id-en-find-my-iphone-maken-identiteitsdiefstal-mogelijk.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
