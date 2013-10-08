@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-10-07</lastmod>
+<lastmod>2013-10-08</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/eric-schmidt-uitgelachen-na-uitspraak-android-veiliger-dan-iphone.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-08</news:publication_date>
+   <news:title>Eric Schmidt uitgelachen na uitspraak ‘Android veiliger dan iPhone’</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/truslomo-maakt-slow-motion-op-iphone-5s-bruikbaar-voor-apps.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-08</news:publication_date>
+   <news:title>TruSloMo maakt slow motion op iPhone 5s bruikbaar voor apps</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/samsung-kopieert-iphone-spot-uit-2007.html</loc>
