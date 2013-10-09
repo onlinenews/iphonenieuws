@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/nieuwe-ipads-op-22-oktober-aangekondigd.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-09</news:publication_date>
+   <news:title>Nieuwe iPads op 22 oktober aangekondigd</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/apple-presenteert-ipad-5-en-ipad-mini-2-op-22-oktober.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
