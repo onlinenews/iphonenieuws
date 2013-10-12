@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-10-12</lastmod>
+<lastmod>2013-10-13</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/lono-sprinklers-bedienen-vanuit-iphone-app.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-13</news:publication_date>
+   <news:title>Lono: sprinklers bedienen vanuit iPhone-app</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/app-gemist-burgernet-railplanner-launch-center-pro-en-meer-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-13</news:publication_date>
+   <news:title>App Gemist: Burgernet, Railplanner, Launch Center Pro en meer</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/game-engine-unity-ondersteunt-nu-ios-7-gamecontrollers.html</loc>
