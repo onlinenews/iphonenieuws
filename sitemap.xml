@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-10-17</lastmod>
+<lastmod>2013-10-18</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/belangrijk-steve-jobs-patent-voor-iphone-opnieuw-goedgekeurd.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-18</news:publication_date>
+   <news:title>Belangrijk Steve Jobs-patent voor iPhone opnieuw goedgekeurd</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/soundhound-voor-iphone-en-ipad-nieuw-ontwerp-en-muziekkaart.html</loc>
