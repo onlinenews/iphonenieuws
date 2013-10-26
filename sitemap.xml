@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-10-25</lastmod>
+<lastmod>2013-10-26</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/tidy-voor-iphone-stijlvolle-fotoalbum-app-ruimt-je-fotos-op.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-26</news:publication_date>
+   <news:title>Tidy voor iPhone: stijlvolle fotoalbum-app ruimt je foto’s op</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/iphone-5c-en-5s-in-nederland-te-koop.html</loc>
