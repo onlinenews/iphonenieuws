@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/apple-geeft-45-miljard-uit-aan-innovatie.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-31</news:publication_date>
+   <news:title>Apple geeft 4,5 miljard uit aan innovatie</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/runtastic-voor-iphone-motiveert-renners-met-verhalen-voor-onderweg.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-31</news:publication_date>
+   <news:title>Runtastic voor iPhone motiveert renners met verhalen voor onderweg</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/anomaly-2-omgekeerde-tower-defense-met-online-multiplayer.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
