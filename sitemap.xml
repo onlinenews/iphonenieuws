@@ -3,9 +3,51 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-11-06</lastmod>
+<lastmod>2013-11-07</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/timehop-voor-iphone-laat-vrienden-nu-berichten-sturen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-07</news:publication_date>
+   <news:title>Timehop voor iPhone laat vrienden nu berichten sturen</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/hudway-voor-iphone-projecteert-gps-gegevens-op-je-voorruit.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-07</news:publication_date>
+   <news:title>Hudway voor iPhone projecteert GPS-gegevens op je voorruit</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/lego-lord-of-the-rings-uitgekomen-voor-iphone-en-ipad.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-07</news:publication_date>
+   <news:title>Lego Lord of the Rings uitgekomen voor iPhone en iPad</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/apple-schaalt-productie-iphone-5s-en-ipad-mini-retina-op.html</loc>
