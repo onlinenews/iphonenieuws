@@ -3,9 +3,65 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-11-12</lastmod>
+<lastmod>2013-11-13</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/smarty-ring-slimme-ring-moet-smartwatch-vervangen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-12</news:publication_date>
+   <news:title>Smarty Ring: slimme ring moet smartwatch vervangen</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/nederlandse-app-uitgaven-is-lekker-simpel-huishoudboekje-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-12</news:publication_date>
+   <news:title>Nederlandse app Uitgaven is lekker simpel huishoudboekje</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/video---review-ipad-air.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-12</news:publication_date>
+   <news:title>Video - Review: iPad Air</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/nissan-maakt-google-glass-concurrent.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-12</news:publication_date>
+   <news:title>Nissan maakt Google Glass-concurrent</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/viber-krijgt-grote-groepsgesprekken-veel-stickers-en-meer-na-update.html</loc>
