@@ -3,9 +3,65 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-11-13</lastmod>
+<lastmod>2013-11-14</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/facebook-messenger-30-voor-iphone-met-nieuw-uiterlijk-verschenen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-13</news:publication_date>
+   <news:title>Facebook Messenger 3.0 voor iPhone met nieuw uiterlijk verschenen</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/ebay-32-op-iphone-delen-naar-pinterest-persoonlijke-nieuwsfeed.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-13</news:publication_date>
+   <news:title>eBay 3.2 op iPhone: delen naar Pinterest, persoonlijke nieuwsfeed</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/youtube-capture-laat-je-meerdere-clips-gebruiken-voor-video.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-13</news:publication_date>
+   <news:title>YouTube Capture laat je meerdere clips gebruiken voor video</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/woojer-kleine-subwoofer-voor-iphone-games-en-slechthorenden.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-13</news:publication_date>
+   <news:title>Woojer: kleine subwoofer voor iPhone-games en slechthorenden</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/shots-of-me-voor-iphone-justin-biebers-selfie-app-met-priv-berichten.html</loc>
