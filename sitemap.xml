@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/ios-app-google-play-music.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-15</news:publication_date>
+   <news:title>iOS app Google Play Music</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/google-play-music-nu-ook-op-iphone-ipad-en-ipod.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -19,6 +33,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-11-15</news:publication_date>
    <news:title>Google Play Music nu ook op iPhone, iPad en iPod</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/geld-en-iphone-weg-na-woninginbraak.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-15</news:publication_date>
+   <news:title>Geld en iPhone weg na woninginbraak</news:title>
 </news:news>
 </url>
 <url>
