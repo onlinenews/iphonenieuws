@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/iculture-speelt-epoch-2-neon-shadow-lone-wolf-en-stealth-inc.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-14</news:publication_date>
+   <news:title>iCulture speelt: Epoch 2, Neon Shadow, Lone Wolf en Stealth Inc</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/ios-704-nu-beschikbaar-om-te-downloaden.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -33,6 +47,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-11-14</news:publication_date>
    <news:title>Blackberry Messenger komt naar iPad en iPod</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/ibooks-en-itunes-u-voorzien-van-ios-7-uiterlijk.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-14</news:publication_date>
+   <news:title>iBooks en iTunes U voorzien van iOS 7-uiterlijk</news:title>
 </news:news>
 </url>
 <url>
