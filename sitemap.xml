@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.iphonenieuws.com/eerste-iphone-kon-apple-maken-of-breken.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-15</news:publication_date>
+   <news:title>‘Eerste iPhone kon Apple maken of breken’</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/ios-704-lost-facetime-problemen-op.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-15</news:publication_date>
+   <news:title>iOS 7.0.4 lost FaceTime-problemen op</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.iphonenieuws.com/iculture-speelt-epoch-2-neon-shadow-lone-wolf-en-stealth-inc.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
