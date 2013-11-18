@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-11-16</lastmod>
+<lastmod>2013-11-18</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/adv-hoe-sociaal-gebruik-jij-je-iphone-in-het-verkeer.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-17</news:publication_date>
+   <news:title>[ADV] Hoe ‘sociaal’ gebruik jij je iPhone in het verkeer?</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/shelby-voor-iphone-videos-van-vrienden-en-mensen-die-je-volgt.html</loc>
