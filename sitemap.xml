@@ -3,9 +3,51 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-11-18</lastmod>
+<lastmod>2013-11-19</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/smart-power-strip-stekkerblok-met-iphone-app.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-18</news:publication_date>
+   <news:title>Smart Power Strip: stekkerblok met iPhone-app</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/pebblenav-laat-je-navigeren-met-pebble-horloge.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-18</news:publication_date>
+   <news:title>PebbleNav laat je navigeren met Pebble-horloge</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/wise-button-veelzijdige-afstandsbediening-voor-iphone-en-ipad.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-18</news:publication_date>
+   <news:title>Wise Button: veelzijdige afstandsbediening voor iPhone en iPad</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/win-10x-1500-shoptegoed-bij-smartphonehoesjesnl.html</loc>
