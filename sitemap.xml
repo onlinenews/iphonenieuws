@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-11-24</lastmod>
+<lastmod>2013-11-25</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/drawquest-tekenapp-nu-ook-op-iphone-en-ipod-touch.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-24</news:publication_date>
+   <news:title>DrawQuest tekenapp nu ook op iPhone en iPod touch</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/tijdelijk-gratis-iphone--en-ios-apps-radium-marvin-en-meer.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-24</news:publication_date>
+   <news:title>Tijdelijk gratis iPhone- en iOS-apps: Radium, Marvin en meer</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.iphonenieuws.com/beeldscherm-iphone-6-loopt-door-naar-zijkant-video.html</loc>
