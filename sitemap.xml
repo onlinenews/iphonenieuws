@@ -3,7 +3,7 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.iphonenieuws.com/</loc>
-<lastmod>2013-11-23</lastmod>
+<lastmod>2013-11-24</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
 </url>
@@ -19,6 +19,34 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-11-23</news:publication_date>
    <news:title>WadsApp: eigen iPhone-apps voor #Texel en #Terschelling</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/wadsapp-eigen-iphone-apps-voor-texel-en-terschelling-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-23</news:publication_date>
+   <news:title>WadsApp: eigen iPhone-apps voor Texel en Terschelling</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.iphonenieuws.com/sickweather-voor-iphone-waarschuwt-bij-ziektes.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>iPhone Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-23</news:publication_date>
+   <news:title>Sickweather voor iPhone waarschuwt bij ziektes</news:title>
 </news:news>
 </url>
 <url>
